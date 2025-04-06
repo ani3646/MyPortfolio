@@ -148,7 +148,7 @@ const Home = () => {
           <h3>Hello, Myself</h3>
           <h1>Sarthak Singh</h1>
           <h3>
-            And I'm a <span className="multiple-text">Developer</span>
+            And I'm a <span className="multiple-text"></span>
           </h3>
           <p>
             {" "}

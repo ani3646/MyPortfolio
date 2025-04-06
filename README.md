@@ -53,6 +53,7 @@ Welcome to my personal developer portfolio! This website showcases my projects, 
 ```bash
 git clone https://github.com/sarthak03dot/Portfolio-Pro.git
 cd Portfolio-Pro
+```
 
 2. **Install dependencies**
 ```bash
@@ -70,7 +71,18 @@ npm run build
 ```
 
 ---
+## 🌐 Live Site
 
+**🔗** [https://sarthak03dot-portfolio.onrender.com](https://sarthak03dot-portfolio.onrender.com)
+
+---
+
+## 🧑‍💻 Author
+
+**Sarthak Singh**  
+📫 [sarthak03december@gmail.com](mailto:sarthak03december@gmail.com)
+
+---
 ## 📄 License
 
 This project is licensed under the MIT License.  
