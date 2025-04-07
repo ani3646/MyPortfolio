@@ -551,7 +551,7 @@ span {
 
 #progress-bar {
   height: 4px;
-  width: 0%;
+  width: 100%;
   background-color: #28a745; /* or red if error */
   transition: width 5s linear;
   border-radius: 0;

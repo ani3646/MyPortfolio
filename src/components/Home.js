@@ -100,11 +100,11 @@ const Home = () => {
 
     // Reset progress bar instantly
     progress.style.transition = "none";
-    progress.style.width = "0%";
+    progress.style.width = "100%";
 
     setTimeout(() => {
       progress.style.transition = "width 5s linear";
-      progress.style.width = "100%";
+      progress.style.width = "0%";
     }, 50);
 
     setTimeout(() => {
@@ -112,7 +112,7 @@ const Home = () => {
       setTimeout(() => {
         notification.style.display = "none";
         progress.style.transition = "none";
-        progress.style.width = "0%";
+        progress.style.width = "100%";
       }, 300);
     }, 5000);
   };
