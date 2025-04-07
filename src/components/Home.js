@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from "react";
 import Typed from "typed.js";
 import sarthakImg from "../assets/sarthak.jpg";
 import TripTalesImg from "../assets/Triptales.png";
+import PomImg from "../assets/Pom-Player.jpg";
 const skillsData = [
   {
     title: "Languages",
@@ -31,14 +32,14 @@ const projects = [
     demo: "https://triptales-dot.onrender.com/listings",
   },
   {
-    title: "TripTales.in",
+    title: "Pom-Player",
     description:
-      "TripTales.in is a dynamic web-based traveling platform that serves as a hub for travelers to explore destinations plan journeys, and share their travel experiences.",
-    image: TripTalesImg,
-    tech: ["EJS", "MongoDB Compass", "Bootstrap CSS", "Express", "Node.js"],
-    source: "https://github.com/sarthak03dot/PROJECT-TOURISTER",
-    demo: "https://triptales-dot.onrender.com/listings",
-  },
+      "Pom-Player is a YouTube-inspired video streaming platform that allows users to search, watch, and explore curated anime and kids cartoon content through an intuitive and responsive interface.",
+    image: PomImg, 
+    tech: ["React.js", "YouTube API", "CSS3", "Render Hosting"],
+    source: "https://github.com/sarthak03dot/Pom-Player-YT-Clone",
+    demo: "https://youtube-pom-pom.onrender.com",
+  },  
   {
     title: "TripTales.in",
     description:
