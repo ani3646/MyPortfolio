@@ -6,7 +6,7 @@ import chatappimg from "../assets/chatapp.png";
 const skillsData = [
   {
     title: "Languages",
-    skills: ["JavaScript", "Java", "C","C++", "HTML", "CSS", "Python", "MySQL"],
+    skills: ["C", "C++", "HTML","CSS", "JAVASCRIPT", "JAVA", "Python", "MySQL"],
   },
   {
     title: "Frontend",
