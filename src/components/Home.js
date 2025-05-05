@@ -326,7 +326,7 @@ const Home = () => {
                 <h4>
                   <i class="bx bxs-envelope"></i>&nbsp;&nbsp;&nbsp;Email
                 </h4>
-                <p>ankitdixit3646@gmmail.com</p>
+                <p>ankitdixit3646@gmail.com</p>
               </div>
             </div>
             <div className="info-card">
