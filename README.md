@@ -1,4 +1,4 @@
-# 🌐 Sarthak Singh - Portfolio Website
+# 🌐 Ankit Dixit - Portfolio Website
 
 Welcome to my personal developer portfolio! This website showcases my projects, skills, story, and ways to get in touch. Built with **React**, it is fully responsive, theme-switchable (light/dark), and SPA-powered using `react-router-dom`.
 
@@ -51,8 +51,8 @@ Welcome to my personal developer portfolio! This website showcases my projects, 
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/sarthak03dot/Portfolio-Pro.git
-cd Portfolio-Pro
+git clone https://github.com/ani3646/MyPortfolio.git
+cd MyPortfolio
 ```
 
 2. **Install dependencies**
@@ -73,14 +73,14 @@ npm run build
 ---
 ## 🌐 Live Site
 
-**🔗** [https://sarthak03dot-portfolio.onrender.com](https://sarthak03dot-portfolio.onrender.com)
+**🔗** [https://ankitdixit3646-portfolio.onrender.com](https://ankitdixit3646-portfolio.onrender.com)
 
 ---
 
 ## 🧑‍💻 Author
 
-**Sarthak Singh**  
-📫 [sarthak03december@gmail.com](mailto:sarthak03december@gmail.com)
+**Ankit Dixit**  
+📫 [ankitdixit3646@gmail.com](mailto:ankitdixit3646@gmail.com)
 
 ---
 ## 📄 License

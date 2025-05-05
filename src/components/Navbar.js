@@ -47,7 +47,7 @@ const Navbar = () => {
   return (
     <header className="header">
       <a href="#Home" className="logo">
-        Sarthak Singh
+        Ankit Kumar Dixit
       </a>
       <i className="bx bx-menu" ref={menuIconRef} id="menu-icon"></i>
 
@@ -58,7 +58,7 @@ const Navbar = () => {
         <a href="#Projects">Projects</a>
         <a href="#Contact">Contact</a>
         <a
-          href="https://drive.google.com/file/d/1cBsA14sWGSyOpcIth40sTbYKuiCT3eqE/view"
+          href="https://drive.google.com/file/d/19_39v4CtDf0RXe7XK9TTTvCv1Y7Xcl2C/view?usp=drive_link"
           target="_blank"
           rel="noreferrer"
           className="resume-btn btn"

@@ -1,12 +1,12 @@
 import React, { useEffect, useRef } from "react";
 import Typed from "typed.js";
-import sarthakImg from "../assets/sarthak.jpg";
+import ankitimg from "../assets/ankit.png"
 import TripTalesImg from "../assets/Triptales.png";
-import PomImg from "../assets/Pom-Player.jpg";
+import chatappimg from "../assets/chatapp.png";
 const skillsData = [
   {
     title: "Languages",
-    skills: ["JavaScript", "Java", "C", "HTML", "CSS", "Python", "MySQL"],
+    skills: ["JavaScript", "Java", "C","C++", "HTML", "CSS", "Python", "MySQL"],
   },
   {
     title: "Frontend",
@@ -28,17 +28,16 @@ const projects = [
       "TripTales.in is a dynamic web-based traveling platform that serves as a hub for travelers to explore destinations plan journeys, and share their travel experiences.",
     image: TripTalesImg,
     tech: ["EJS", "MongoDB Compass", "Bootstrap CSS", "Express", "Node.js"],
-    source: "https://github.com/sarthak03dot/PROJECT-TOURISTER",
+    source: "https://github.com/ani3646/PROJECT-TOURISTER",
     demo: "https://triptales-dot.onrender.com/listings",
   },
   {
-    title: "Pom-Player",
-    description:
-      "Pom-Player is a YouTube-inspired video streaming platform that allows users to search, watch, and explore curated anime and kids cartoon content through an intuitive and responsive interface.",
-    image: PomImg, 
-    tech: ["React.js", "YouTube API", "CSS3", "Render Hosting"],
-    source: "https://github.com/sarthak03dot/Pom-Player-YT-Clone",
-    demo: "https://youtube-pom-pom.onrender.com",
+    title: "Real-Time-Chat-App.in",
+    description:"This project is a real-time chat application that allows users to communicate instantly with each other through text messaging. Built using modern web technologies (such as JS and Node.js)",
+    image: chatappimg, 
+    tech: ["Express","Node.js","javascript"],
+    source: "https://github.com/ani3646/RealTime-ChatApp?tab=readme-ov-file",
+    demo: "",
   },  
   {
     title: "TripTales.in",
@@ -46,7 +45,7 @@ const projects = [
       "TripTales.in is a dynamic web-based traveling platform that serves as a hub for travelers to explore destinations plan journeys, and share their travel experiences.",
     image: TripTalesImg,
     tech: ["EJS", "MongoDB Compass", "Bootstrap CSS", "Express", "Node.js"],
-    source: "https://github.com/sarthak03dot/PROJECT-TOURISTER",
+    source: "https://github.com/ani3646/PROJECT-TOURISTER",
     demo: "https://triptales-dot.onrender.com/listings",
   },
 ];
@@ -143,11 +142,11 @@ const Home = () => {
       {/* Home Section */}
       <section className="Home" id="Home">
         <div className="home-img">
-          <img src={sarthakImg} alt="Profile" />
+          <img src={ankitimg} alt="Profile" />
         </div>
         <div className="home-content">
           <h3>Hello, Myself</h3>
-          <h1>Sarthak Singh</h1>
+          <h1>Ankit Kumar Dixit</h1>
           <h3>
             And I'm a <span className="multiple-text"></span>
           </h3>
@@ -160,35 +159,35 @@ const Home = () => {
           </p>
           <div className="social-media">
             <a
-              href="https://in.linkedin.com/in/sarthak03dot"
+              href="https://www.linkedin.com/in/ankit-dixit-8a444931b"
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="bx bxl-linkedin"></i>
             </a>
             <a
-              href="https://github.com/sarthak03dot"
+              href="https://github.com/ani3646"
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="bx bxl-github"></i>
             </a>
             <a
-              href="https://www.instagram.com/sarthak03dot/"
+              href="https://www.instagram.com/__4nkit__24/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="bx bxl-instagram"></i>
             </a>
             <a
-              href="https://leetcode.com/u/sarthak03dot/"
+              href="https://leetcode.com/u/ankit3646/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="bx bx-code-alt"></i>
             </a>
             <a
-              href="https://dev.to/sarthak03dot"
+              href="https://dev.to/ankit_dixit_ad214845f18bb"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -196,7 +195,7 @@ const Home = () => {
             </a>
           </div>{" "}
           <a
-            href="https://drive.google.com/file/d/1cBsA14sWGSyOpcIth40sTbYKuiCT3eqE/view"
+            href="https://drive.google.com/file/d/19_39v4CtDf0RXe7XK9TTTvCv1Y7Xcl2C/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="btn"
@@ -230,7 +229,7 @@ const Home = () => {
           </a>
         </div>
         <div className="about-img">
-          <img src={sarthakImg} alt="profileImg" />
+          <img src={ankitimg} alt="profileImg" />
         </div>
       </section>
 
@@ -327,7 +326,7 @@ const Home = () => {
                 <h4>
                   <i class="bx bxs-envelope"></i>&nbsp;&nbsp;&nbsp;Email
                 </h4>
-                <p>sarthak03december@gmail.com</p>
+                <p>ankitdixit3646@gmmail.com</p>
               </div>
             </div>
             <div className="info-card">
@@ -335,7 +334,7 @@ const Home = () => {
                 <h4>
                   <i class="bx bx-phone"></i>&nbsp;&nbsp;&nbsp;Phone
                 </h4>
-                <p>+91 7652093805</p>
+                <p>+91 8115103646 </p>
               </div>
             </div>
             <div className="info-card">
@@ -343,7 +342,7 @@ const Home = () => {
                 <h4>
                   <i class="bx bxs-edit-location"></i>&nbsp;&nbsp;&nbsp;Location
                 </h4>
-                <p>Mirzapur Utter Pradesh, India</p>
+                <p>Deoria Utter Pradesh, India</p>
               </div>
             </div>
           </div>

@@ -40,7 +40,7 @@
   --bg-color: #fefefe;
   --snd-bg-color: #f0f0f5;
   --text-color: #1e1e2f;
-  --main-color: #e29b58;
+  --main-color: #79281f;
   --accent-color: #556a70;
 }
 
@@ -54,7 +54,7 @@ body.dark-mode {
   --bg-color: #0f0f11;
   --snd-bg-color: #1b1b1f;
   --text-color: #f1f1f1;
-  --main-color: #b366e7;
+  --main-color: #399637;
   --accent-color: hsl(240, 51%, 73%);
 }
 
