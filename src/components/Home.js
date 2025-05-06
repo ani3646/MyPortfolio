@@ -66,7 +66,7 @@ const Home = () => {
 
     try {
       const res = await fetch(
-        "https://portfolio-contact-cgr9.onrender.com/sent-message",
+        "https://myportfolio-backend-jenc.onrender.com/sent-message",
         {
           method: "POST",
           headers: {
