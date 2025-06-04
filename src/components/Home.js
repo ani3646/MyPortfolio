@@ -28,8 +28,8 @@ const projects = [
       "TripTales.in is a dynamic web-based traveling platform that serves as a hub for travelers to explore destinations plan journeys, and share their travel experiences.",
     image: TripTalesImg,
     tech: ["EJS", "MongoDB Compass", "Bootstrap CSS", "Express", "Node.js"],
-    source: "https://github.com/ani3646/PROJECT-TOURISTER",
-    demo: "https://triptales-dot.onrender.com/listings",
+    source: "https://github.com/ani3646/Dream---Diaries",
+    demo: "",
   },
   {
     title: "Real-Time-Chat-App.in",
@@ -45,8 +45,8 @@ const projects = [
       "TripTales.in is a dynamic web-based traveling platform that serves as a hub for travelers to explore destinations plan journeys, and share their travel experiences.",
     image: TripTalesImg,
     tech: ["EJS", "MongoDB Compass", "Bootstrap CSS", "Express", "Node.js"],
-    source: "https://github.com/ani3646/PROJECT-TOURISTER",
-    demo: "https://triptales-dot.onrender.com/listings",
+    source: "https://github.com/ani3646/Dream---Diaries",
+    demo: "",
   },
 ];
 
@@ -195,7 +195,7 @@ const Home = () => {
             </a>
           </div>{" "}
           <a
-            href="https://drive.google.com/file/d/19_39v4CtDf0RXe7XK9TTTvCv1Y7Xcl2C/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1xhiyMldBm3QlF0QGpSEpsX5Y0P3kuYN3/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="btn"

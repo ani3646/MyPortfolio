@@ -58,7 +58,7 @@ const Navbar = () => {
         <a href="#Projects">Projects</a>
         <a href="#Contact">Contact</a>
         <a
-          href="https://drive.google.com/file/d/19_39v4CtDf0RXe7XK9TTTvCv1Y7Xcl2C/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1xhiyMldBm3QlF0QGpSEpsX5Y0P3kuYN3/view?usp=drive_link"
           target="_blank"
           rel="noreferrer"
           className="resume-btn btn"
